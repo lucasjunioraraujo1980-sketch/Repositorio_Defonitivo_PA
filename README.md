@@ -2,4 +2,4 @@
 Repositorio definitivo para entregar as atividades de PA
 
 
-arquivos na Formatação: "nome do projeto" = "data"
+arquivos na Formatação: "nome do projeto" - "data"
